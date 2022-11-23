@@ -1,4 +1,4 @@
-![logo](https://github.com/manishawadhe/manishawadhe/blob/main/Black%20Modern%20Digital%20Marketing%20Banner%20.png)
+![logo](https://github.com/manishawadhe/manishawadhe/blob/main/Github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Manisha Wadhe</h1>
 <h3 align="center">A passionate Full-Stack Web Developement from India.</h3>

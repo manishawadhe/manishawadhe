@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Node.js, Mango DB, Express.js,**
 
-- 👨‍💻 All of my projects are available at [manishawadhe.github.io](manishawadhe.github.io)
+- 👨‍💻 All of my projects are available at [https://manishawadhe.github.io/](https://manishawadhe.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, Mango DB, Bootstrap, Chakra UI**
 

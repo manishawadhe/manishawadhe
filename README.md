@@ -60,17 +60,21 @@ latest industry trends and best practices.</p>
 
 <br/>
 <br/>
-  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
   
 </div>
  <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+  <div align="center"><h3 align="center">Functional Testing Tool</h3> 
+<img src="https://img.shields.io/badge/Selenium-339933?style=for-the-badge&logo=selenium&logoColor=white" align="center" alt="selenium" />
+<img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" align="center" alt="cypress"/>
+<img src="https://img.shields.io/badge/Postman-4EA94B?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"/>
+<img src="https://img.shields.io/badge/Appium-339933?style=for-the-badge&logo=appium&logoColor=white" align="center" alt="appium" />
+<img src="https://img.shields.io/badge/WebdriverIO-000000?style=for-the-badge&logo=webdriverio&logoColor=white" align="center" alt="webdriverio"/>
+<img src="https://img.shields.io/badge/Rest Assured-4EA94B?style=for-the-badge&logo=restAssured&logoColor=white" align="center" alt="restAssured"/>
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 

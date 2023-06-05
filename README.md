@@ -57,11 +57,11 @@ latest industry trends and best practices.</p>
 <img src="https://img.shields.io/badge/Java-593D88?style=for-the-badge&logo=java&logoColor=white"  align="center" alt="java" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"  align="center" alt="python" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 
 <br/>
 <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+  <div align="center"><h3 align="center">Data Base</h3>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
  </div>
@@ -74,16 +74,17 @@ latest industry trends and best practices.</p>
 <img src="https://img.shields.io/badge/Postman-4EA94B?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"/>
 <img src="https://img.shields.io/badge/Appium-339933?style=for-the-badge&logo=appium&logoColor=white" align="center" alt="appium" />
 <img src="https://img.shields.io/badge/WebdriverIO-000000?style=for-the-badge&logo=webdriverio&logoColor=white" align="center" alt="webdriverio"/>
-<img src="https://img.shields.io/badge/Rest Assured-4EA94B?style=for-the-badge&logo=restAssured&logoColor=white" align="center" alt="restAssured"/>
+<img src="https://img.shields.io/badge/RestAssured-4EA94B?style=for-the-badge&logo=restassured&logoColor=white" align="center" alt="restAssured"/>
+<img src="https://img.shields.io/badge/SeleniumGrid-4EA94B?style=for-the-badge&logo=seliniumgrid&logoColor=white" align="center" alt="seleniumgrid"/>
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
 <br/>

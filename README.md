@@ -68,7 +68,7 @@ latest industry trends and best practices.</p>
   
 </div>
  <br/>
-  <div align="center"><h3 align="center">Functional Testing Tool</h3> 
+  <div align="center"><h3 align="center">Functional Testing Tools</h3> 
 <img src="https://img.shields.io/badge/Selenium-339933?style=for-the-badge&logo=selenium&logoColor=white" align="center" alt="selenium" />
 <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" align="center" alt="cypress"/>
 <img src="https://img.shields.io/badge/Postman-4EA94B?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"/>
@@ -76,16 +76,45 @@ latest industry trends and best practices.</p>
 <img src="https://img.shields.io/badge/WebdriverIO-000000?style=for-the-badge&logo=webdriverio&logoColor=white" align="center" alt="webdriverio"/>
 <img src="https://img.shields.io/badge/RestAssured-4EA94B?style=for-the-badge&logo=restassured&logoColor=white" align="center" alt="restAssured"/>
 <img src="https://img.shields.io/badge/SeleniumGrid-4EA94B?style=for-the-badge&logo=seliniumgrid&logoColor=white" align="center" alt="seleniumgrid"/>
+ <img src="https://img.shields.io/badge/TestNG-339933?style=for-the-badge&logo=testng&logoColor=white" align="center" alt="testng" />
  </div>
-  
+ 
+ <br/>
+ 
+ <div align="center"><h3 align="center">Issue Ans Test Management Tools</h3>
+<img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" align="center" alt="jira"/>
+<img src="https://img.shields.io/badge/Zephyr-4EA94B?style=for-the-badge&logo=zephyr&logoColor=white" align="center" alt="zephyr"/>
+ </div>
+ 
+  <br/>
+ 
+  <div align="center"><h3 align="center">Version control Tools</h3>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+ </div>
+ <br/>
+ 
+  <div align="center"><h3 align="center">Build and CI-CD Tools</h3>
+  <img src="https://img.shields.io/badge/Maven-%23000000.svg?style=for-the-badge&logo=maven&logoColor=whit" align="center" alt="maven"/>
+  <img src="https://img.shields.io/badge/Junkin-100000?style=for-the-badge&logo=junkin&logoColor=white"  align="center" alt="junkin"/>
+ </div>
+ <br/>
+ 
+ <div align="center"><h3 align="center">BDD and Performance Testing Tools</h3>
+  <img src="https://img.shields.io/badge/Cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=whit" align="center" alt="cucumber"/>
+  <img src="https://img.shields.io/badge/JMeter-100000?style=for-the-badge&logo=jmeter&logoColor=white"  align="center" alt="jmeter"/>
+ </div>
+ <br/>
+ 
+ 
+ 
   <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   
+   
    <br/>
 <br/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>

@@ -124,10 +124,10 @@ latest industry trends and best practices.</p>
 <br>
 <img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 <br><br>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishawadhe&&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="manishawadhe" /></p>
 
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishawadhe&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="manishawadhe" /></p>
+
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishawadhe&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" alt="manishawadhe" /></p>

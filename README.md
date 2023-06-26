@@ -24,7 +24,7 @@ latest industry trends and best practices.</p>
 
 - 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1N3zDbsQtcbd9-PV9qxivcZj1-2Vg9Wu5/view?usp=sharing)
 
-<!-- - 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://sorde12.github.io/) -->
+- 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://manishwadhe-github-io.pages.dev/) 
 
 - ⚡ Fun fact Crazy for coding
 <br>

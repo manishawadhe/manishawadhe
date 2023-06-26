@@ -48,7 +48,7 @@ latest industry trends and best practices.</p>
 <br><br>
  
 <h3 align="center">Languages and Tools:</h3>
-<div align="center">
+<!-- <div align="center">
  
  <div align="center"><h3 align="center">Frontend And Backend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
@@ -57,13 +57,13 @@ latest industry trends and best practices.</p>
 <img src="https://img.shields.io/badge/Java-593D88?style=for-the-badge&logo=java&logoColor=white"  align="center" alt="java" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"  align="center" alt="python" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" /> -->
 
 <br/>
 <br/>
   <div align="center"><h3 align="center">Data Base</h3>
 <img src="https://img.shields.io/badge/MySQL-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/> -->
  </div>
   
 </div>

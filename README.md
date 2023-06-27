@@ -47,7 +47,7 @@ latest industry trends and best practices.</p>
 <img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 <br><br>
  
-<h3 align="center">Languages and Tools:</h3>
+
 <!-- <div align="center">
  
  <div align="center"><h3 align="center">Frontend And Backend</h3>
